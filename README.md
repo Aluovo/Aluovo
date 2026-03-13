@@ -2,11 +2,10 @@
 
 ### 🦌 "Just a deer trying to figure out how the internet works."
 
-- 🛡️ **Cybersecurity Student**: Currently holding NISP certificate and diving into the world of network defense.
-- 🤖 **AI Enthusiast**: Exploring local LLMs on my Y9000P (and surviving VRAM overflows).
+- 🛡️ **Major**: 信息安全技术应用 (3+2) 在读
+- 🤖 **AI Tinkerer**: Exploring local LLMs on my Y9000P (and surviving VRAM overflows).
 - ⚡ **Learning**: Digital Logic Circuits & Linux Kernel permissions.
 - 🔒 **Status**: 200 OK. Connection with curiosity established.
-
 ---
 
 ### 🛠️ My Toolbox
