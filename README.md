@@ -1,11 +1,13 @@
 # Hi there, I'm Aluovo! 👋 🦌
 
-### 🦌 "Just a deer trying to figure out how the internet works."
+### 🦌 "只是一只试图弄懂互联网运作原理的小鹿"
 
-- 🛡️ **Major**: 信息安全技术应用 (3+2) 在读
-- 🤖 **AI Tinkerer**: Exploring local LLMs on my Y9000P (and surviving VRAM overflows).
-- ⚡ **Learning**: Digital Logic Circuits & Linux Kernel permissions.
-- 🔒 **Status**: 200 OK. Connection with curiosity established.
+- 🛡️ **当前状况**: 信息安全技术应用 (3+2) 大二在读
+- 🤖 **AI探索中**: 在我的笔记本上折腾本地大模型（并且在显存溢出时顽强生存）。
+- 🚩 **CTF**：
+  - 熟悉 **Web** & **MISC** & **Crypto** 方向。目前正在猛攻 **pwn**。
+  - 参与过多次 CTF 竞赛，致力于提升漏洞挖掘与利用能力。
+  - 正在沉淀个人的 **Writeups**
 ---
 
 ### 🛠️ My Toolbox
